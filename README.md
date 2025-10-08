@@ -1,6 +1,5 @@
 # Transaction-Risk-Escrow-Recommendation
-Transaction Risk &amp; Escrow Recommendation
-## Automated Fraud Risk Scoring System
+Automated Fraud Risk Scoring System
 
 ## Project Overview
 This project aims to detect and prevent fraudulent transactions in e-commerce platforms by developing an **Automated Fraud Risk Scoring System**.  
